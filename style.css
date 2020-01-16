@@ -1,0 +1,98 @@
+nav{
+    margin-top: 1px;
+}
+
+#button{
+    color: white;
+}
+
+
+
+img
+{
+
+    height:70px;
+    width: 40px;
+    margin-top: 160px;
+}
+.recherche
+{
+    display: block;
+    margin-left: 380px;
+    margin-right: 3px;
+    margin-top: -40px;
+    width: 20px;
+    height: 20px;
+    border-radius: 2rem;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  input
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 50px;
+    border-radius: 5rem;
+    background-color: rgba(218, 210, 210, 0.1);
+
+  }
+  .RG
+  {
+    display: block;
+    margin-left: 35%;
+    margin-right: 50p%;
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    background-color: rgba(218, 210, 210, 0.1); 
+  }
+  .JC
+  {
+    display: block;
+    margin-left: 50%;
+    margin-right: 10p%;
+    margin-top: -4%;
+    width: 150px;
+    height: 50px;
+    background-color: rgba(218, 210, 210, 0.1);  
+   }
+  /*  p{
+        margin-left: 50px;   
+    }*/
+.hautdepage
+{
+    text-decoration: none;
+    margin-left: 1000px;
+}
+.colorbutton
+{
+    padding: 0,7;
+    background-color: rgb(28, 76, 221);
+    color = "white";
+
+}
+
+footer
+{
+    margin-top: 200px;
+    margin-left: 30px;
+    background-color: slategrey;
+
+}
+.f1
+{
+    margin-left: 2px;
+    
+    
+}
+
+.f2
+{
+    margin-left: 300px;
+}
